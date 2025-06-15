@@ -7,7 +7,7 @@ A simple single-page website built using **HTML** and **CSS**. This project is p
 
 ## 📸 Preview
 
-![Screenshot](Final-look.png) <!-- Add your actual image path or delete this line -->
+![Screenshot](https://github.com/akshatcoder40/Web-page-project/blob/main/Final%20look.png)
 
 ---
 
